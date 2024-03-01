@@ -1,9 +1,9 @@
-<h1 align="center">
+<h1 align="left">
     Hi, I'm Badr Malouli
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
 
-<p align="center">
+<p align="left">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1200&pause=500&color=F2F71D&background=89FF2B00&multiline=true&random=false&width=350&height=80&lines=Software+Developer;Computer+Science+Student;Day+Trader" alt="Typing SVG" />
     </a>
 </p>
