@@ -6,7 +6,6 @@ Hi, I'm Badr Malouli!
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1200&pause=500&color=F2F71D&background=89FF2B00&random=false&width=350&height=30&lines=Software+Developer;Computer+Science+Student;Day+Trader" alt="Typing SVG" /></a>
 </p>
 
-<hr>
 
 - 💻 Computer Science Student at Concordia University and Software Developer.
 - 📚 Holds an AEC in Software Development from Collège de Maisonneuve.
@@ -44,7 +43,9 @@ Hi, I'm Badr Malouli!
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
+    <a href="#"><img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></a>
 </p>
+
 
 ### 🗄️ Databases and Cloud Hosting
 
@@ -82,7 +83,17 @@ Hi, I'm Badr Malouli!
 ### 👨🏽‍💻 Workspace
 <p>
     <a href="#"><img alt="Lenovo ThinkPad" src="https://img.shields.io/badge/Lenovo-ThinkPad_E16_1st_Gen_i7--1355U-0072C6?style=for-the-badge&logo=lenovo&logoColor=white"></a>
-    <a href="#"><img alt="YouTube Study Music" src="https://img.shields.io/badge/YouTube-Study_Music-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+    <a href="#"><img alt="YouTube Study Music" src="https://img.shields.io/badge/YouTube-Study_Music-FF0000?style=for-the-badge&logoColor=white"></a>
 </p>
 
 
+### 
+
+<p>
+    <a  href="https://linkedin.com/in/badrmalouli" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
+    </a>
+    <a href="mailto:badrmalouli6152@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+    <img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="example"/>
+  </a>
+</p>    
