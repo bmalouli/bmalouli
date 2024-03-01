@@ -83,17 +83,16 @@
 ### 👨🏽‍💻 Workspace
 <p>
     <a href="#"><img alt="Lenovo ThinkPad" src="https://img.shields.io/badge/Lenovo-ThinkPad_E16_1st_Gen_i7--1355U-0072C6?style=for-the-badge&logo=lenovo&logoColor=white"></a>
-    <a href="#"><img alt="YouTube Study Music" src="https://img.shields.io/badge/YouTube-Study_Music-FF0000?style=for-the-badge&logoColor=white"></a>
 </p>
 
 
-### 
+### <b> Let's Connect !</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="50">
 
 <p>
-    <a  href="https://linkedin.com/in/badrmalouli" target="_blank">
+    <a href="https://linkedin.com/in/badrmalouli" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
     </a>
-    <a href="mailto:badrmalouli6152@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+    <a href="mailto:badrmalouli6152@gmail.com?subject=Hiring%20You&body=Hello%20Badr," target="_blank">
     <img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="example"/>
   </a>
 </p>    
