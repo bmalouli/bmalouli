@@ -8,8 +8,7 @@
     </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+---
 ### 👨‍💻 Programming Languages
 
 <p>
@@ -69,18 +68,13 @@
 
 
 ### 👨🏽‍💻 Workspace
+
 <p>
     <a href="#"><img alt="Lenovo ThinkPad" src="https://img.shields.io/badge/Lenovo-ThinkPad_E16_1st_Gen_i7--1355U-0072C6?style=for-the-badge&logo=lenovo&logoColor=white"></a>
 </p>
 
 
 ### <b> Let's Connect !</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="50">
-
-
-
-
-
-
 
 <p>
     <a href="https://linkedin.com/in/badrmalouli" target="_blank">
@@ -93,14 +87,14 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- 💻 Computer Science Student at Concordia University and Software Developer.
-- 📚 Holds an AEC in Software Development from Collège de Maisonneuve.
-- 📈 Passionate about finance, self-taught in Day trading the foreign exchange market with a strategy tested over 4 years.
-- 🔍 Learning C++, Python and C# .NET to create backend solutions, including trading systems with machine learning and AI.
-- 🌱 Enhancing skills in software development and AI for financial trading innovation.
-- 🌟 Main languages I'm focusing on: C++, Python and C# .NET.
-- 🚀 Aiming to build a full-stack machine learning trading application for enhanced strategy and decision-making.
-- ❤️ Driven by the transformative power of technology in financial markets.
-- 🥊 Enjoys boxing, football and exploring new cultures by traveling.
+- Computer Science Student at Concordia University and Software Developer.
+- Holds an AEC in Software Development from Collège de Maisonneuve.
+- Passionate about finance, self-taught in Day trading the foreign exchange market with a strategy tested over 4 years.
+- Learning C++, Python and C# .NET to create backend solutions, including trading systems with machine learning and AI.
+- Enhancing skills in software development and AI for financial trading innovation.
+- Main languages I'm focusing on: C++, Python and C# .NET.
+- Aiming to build a full-stack machine learning trading application for enhanced strategy and decision-making.
+- Driven by the transformative power of technology in financial markets.
+- Enjoys boxing, football and exploring new cultures by traveling.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
