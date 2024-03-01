@@ -1,15 +1,18 @@
 <h1 align="center">
-Hi, I'm Badr Malouli!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+    Hi, I'm Badr Malouli
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+</h1>
 
 <p align="left">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1200&pause=500&color=F2F71D&background=89FF2B00&random=false&width=350&height=30&lines=Software+Developer;Computer+Science+Student;Day+Trader" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1200&pause=500&color=F2F71D&background=89FF2B00&multiline=true&random=false&width=350&height=80&lines=Software+Developer;Computer+Science+Student;Day+Trader" alt="Typing SVG" />
+    </a>
 </p>
 
+<hr>
 
 - 💻 Computer Science Student at Concordia University and Software Developer.
 - 📚 Holds an AEC in Software Development from Collège de Maisonneuve.
-- 📈 Passionate about finance, self-taught in Day trading Gold (XAU/USD) with a strategy tested over 4 years.
+- 📈 Passionate about finance, self-taught in Day trading Gold with a strategy tested over 4 years.
 - 🔍 Learning C++, Python and C# .NET to create backend solutions, including trading systems with machine learning and AI.
 - 🌱 Enhancing skills in software development and AI for financial trading innovation.
 - 🌟 Main languages I'm focusing on: C++, Python and C# .NET.
@@ -18,9 +21,6 @@ Hi, I'm Badr Malouli!
 - 🥊 Enjoys boxing, soccer and exploring new cultures through travel.
 
 <hr>
-
-
-## 🛠️ My Favorite Tools
 
 ### 👨‍💻 Programming Languages
 
