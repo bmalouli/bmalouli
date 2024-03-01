@@ -8,7 +8,7 @@
     </a>
 </p>
 
-<hr>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 - 💻 Computer Science Student at Concordia University and Software Developer.
 - 📚 Holds an AEC in Software Development from Collège de Maisonneuve.
@@ -20,7 +20,7 @@
 - ❤️ Driven by the transformative power of technology in financial markets.
 - 🥊 Enjoys boxing, soccer and exploring new cultures through travel.
 
-<hr>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 👨‍💻 Programming Languages
 
