@@ -1,10 +1,13 @@
 <h1 align="center">
 Hi, I'm Badr Malouli!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=435&lines=Software+Developer;Computer+Science+Student;Day+Trader;Boxer" alt="Typing SVG" /></a>
+
+<p align="left">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&multiline=true&random=false&width=435&height=40&lines=Software+Developer;Computer+Science+Student;Day+Trader" alt="Typing SVG" /></a>
 </p>
+
 <hr>
+
 - 💻 Computer Science Student at Concordia University and Software Developer.
 - 📚 Holds an AEC in Software Development from Collège de Maisonneuve.
 - 📈 Passionate about finance, self-taught in Day trading Gold (XAU/USD) with a strategy tested over 4 years.
