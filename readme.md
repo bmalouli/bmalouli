@@ -1,27 +1,22 @@
 <h1 align="center">
 Hi, I'm Badr Malouli!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
- <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
- <img src="https://gpvc.arturio.dev/I-am-vishalmaurya" alt="Profile views" align='right'/> <a href="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/"> </a> 
-<br/>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
+<p align="left">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=435&lines=Software+Developer;Computer+Science+Student;Day+Trader;Boxer" alt="Typing SVG" /></a>
 </p>
 
 <hr>
 
-
-💻 Computer Science Student at Concordia University and Software Developer.
-📚 Holds an AEC in Software Development from Collège de Maisonneuve.
-📈 Passionate about finance, self-taught in Day trading Gold (XAU/USD) with a strategy tested over 4 years.
-🔍 Learning C++, Python and C# .NET to create backend solutions, including trading systems with machine learning and AI.
-🌱 Enhancing skills in software development and AI for financial trading innovation.
-🌟 Main languages I'm focusing on: C++, Python and C# .NET.
-🚀 Aiming to build a full-stack machine learning trading application for enhanced strategy and decision-making.
-❤️ Driven by the transformative power of technology in financial markets.
-🥊 Enjoys boxing, soccer and exploring new cultures through travel.
+- 💻 Computer Science Student at Concordia University and Software Developer.
+- 📚 Holds an AEC in Software Development from Collège de Maisonneuve.
+- 📈 Passionate about finance, self-taught in Day trading Gold (XAU/USD) with a strategy tested over 4 years.
+- 🔍 Learning C++, Python and C# .NET to create backend solutions, including trading systems with machine learning and AI.
+- 🌱 Enhancing skills in software development and AI for financial trading innovation.
+- 🌟 Main languages I'm focusing on: C++, Python and C# .NET.
+- 🚀 Aiming to build a full-stack machine learning trading application for enhanced strategy and decision-making.
+- ❤️ Driven by the transformative power of technology in financial markets.
+- 🥊 Enjoys boxing, soccer and exploring new cultures through travel.
 
 <hr>
 
