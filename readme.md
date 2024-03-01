@@ -1,9 +1,9 @@
-<h1 align="center">
+<h1 align="left">
     Hi, I'm Badr Malouli
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
 
-<p align="left">
+<p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1200&pause=500&color=F2F71D&background=89FF2B00&multiline=true&random=false&width=350&height=80&lines=Software+Developer;Computer+Science+Student;Day+Trader" alt="Typing SVG" />
     </a>
 </p>
@@ -12,13 +12,13 @@
 
 - 💻 Computer Science Student at Concordia University and Software Developer.
 - 📚 Holds an AEC in Software Development from Collège de Maisonneuve.
-- 📈 Passionate about finance, self-taught in Day trading Gold with a strategy tested over 4 years.
+- 📈 Passionate about finance, self-taught in Day trading the foreign exchange market with a strategy tested over 4 years.
 - 🔍 Learning C++, Python and C# .NET to create backend solutions, including trading systems with machine learning and AI.
 - 🌱 Enhancing skills in software development and AI for financial trading innovation.
 - 🌟 Main languages I'm focusing on: C++, Python and C# .NET.
 - 🚀 Aiming to build a full-stack machine learning trading application for enhanced strategy and decision-making.
 - ❤️ Driven by the transformative power of technology in financial markets.
-- 🥊 Enjoys boxing, soccer and exploring new cultures through travel.
+- 🥊 Enjoys boxing, football and exploring new cultures by traveling.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
