@@ -12,7 +12,7 @@ Hi, I'm Badr Malouli!
 
 <hr>
 
-```
+
 💻 Computer Science Student at Concordia University and Software Developer.
 📚 Holds an AEC in Software Development from Collège de Maisonneuve.
 📈 Passionate about finance, self-taught in Day trading Gold (XAU/USD) with a strategy tested over 4 years.
@@ -22,7 +22,7 @@ Hi, I'm Badr Malouli!
 🚀 Aiming to build a full-stack machine learning trading application for enhanced strategy and decision-making.
 ❤️ Driven by the transformative power of technology in financial markets.
 🥊 Enjoys boxing, soccer and exploring new cultures through travel.
-```
+
 <hr>
 
 
