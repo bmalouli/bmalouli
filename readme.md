@@ -10,7 +10,7 @@
 </p>
 
 ---
-### Programming Languages
+### - Programming Languages
 
 <p>
     <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
@@ -23,7 +23,7 @@
     <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?logo=typescript&logoColor=white"></a>
 </p>
 
-### Frameworks and Libraries
+### - Frameworks and Libraries
 
 <p>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
@@ -34,7 +34,7 @@
 </p>
 
 
-### Databases and Cloud Hosting
+### - Databases and Cloud Hosting
 
 <p>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
@@ -44,7 +44,7 @@
 </p>
 
 
-### Software and Tools
+### - Software and Tools
 
 <p>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
@@ -58,7 +58,7 @@
 </p>
 
 
-### 👨🏽‍💻 Workspace
+### - Workspace
 
 <p>
     <a href="#"><img alt="Lenovo ThinkPad" src="https://img.shields.io/badge/Lenovo-ThinkPad_E16_1st_Gen_i7--1355U-0072C6?style=for-the-badge&logo=lenovo&logoColor=white"></a>
