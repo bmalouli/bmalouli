@@ -2,12 +2,7 @@
     <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
     Hello World! This is Badr Malouli
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-    <p align="center">
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?      font=Fira+Code&duration=1200&pause=500&color=F2F71D&background=89FF2B00&multiline=true&random=false&width=350&height=80&lines=Software+Developer;Computer+Science+Student;Day+Trader" alt="Typing SVG" />
-        </a>    
-    </p>
 </h1>
-
 
 ### About Me:
 
