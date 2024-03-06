@@ -1,6 +1,6 @@
 <p align="left"><picture>
     <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
-    Hello World! This is Badr Malouli
+    <h1>Hello World! This is Badr Malouli</h1>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </p>
 
