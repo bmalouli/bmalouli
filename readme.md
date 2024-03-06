@@ -1,13 +1,12 @@
-<p align="left"><picture>
+<h1 align="left"><picture>
     <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
-    <h1>Hello World! This is Badr Malouli</h1>
+    <h1>Hello World! This is Badr Malouli
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</h1>
 
 ### About Me:
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 - Computer Science Student at Concordia University and Software Developer.
 - Holds an AEC in Software Development from Collège de Maisonneuve.
 - Passionate about finance, self-taught in Day trading the foreign exchange market with a strategy tested over 4 years.
@@ -17,7 +16,6 @@
 - Aiming to build a full-stack machine learning trading application for enhanced strategy and decision-making.
 - Driven by the transformative power of technology in financial markets.
 - Enjoys boxing, football and exploring new cultures by traveling.
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### - Programming Languages
